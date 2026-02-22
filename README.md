@@ -1,8 +1,6 @@
 # DSA
 Here i will upload data of solved questions on various plateforms like- Leetcode, codeforces , hackerrank , hackerearth etc.....
-list of 20 Quest  that i am going to solve in this weak -----
-
-Perfect. Here is your **20+ LeetCode plan (no linked list)** with **clear descriptions** so you know exactly what each problem is about and what pattern it teaches.
+list of 20 Quest  that i am going to solve in this week -----
 
 ---
 
