@@ -197,12 +197,5 @@ These 21 problems cover:
 * Greedy
 * Intervals
 
-That’s most common interview patterns.
 
----
-
-If you want, I can now:
-
-* Mark which ones are Easy/Medium
-* Or give you a strict daily time schedule (like 3-hour study plan)
-* Or help you start Day 1 right now 🚀
+-----------
