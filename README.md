@@ -1,9 +1,3 @@
-# DSA
-Here i will upload data of solved questions on various plateforms like- Leetcode, codeforces , hackerrank , hackerearth etc.....
-list of 20 Quest  that i am going to solve in this week -----
-
----
-
 # ✅ Day 1 – Arrays Basics
 
 ### 1) Two Sum
