@@ -6,5 +6,5 @@ continued/////////////
 .................................
 solved hacker rank recursion questio
 
-Arrays........
+Arrays
 
